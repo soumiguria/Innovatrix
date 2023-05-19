@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "715468177230",
+    "project_id": "ecometric-e5e7b",
+    "storage_bucket": "ecometric-e5e7b.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:715468177230:android:f9ccf27011e42aa355281f",
+        "android_client_info": {
+          "package_name": "com.example.final_try_innovatrix"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "715468177230-a6cm8nj1jlbbegtqlj5h8hp5qi7rb1jc.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB9GjDkAbb4--4Sq9nE41UKhxGc35pIw9k"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "715468177230-a6cm8nj1jlbbegtqlj5h8hp5qi7rb1jc.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
